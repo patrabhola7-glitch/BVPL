@@ -1,6 +1,6 @@
 const teams = {
     utpal: {
-        name: "UTPAL's Team",
+        name: "LOOSER 11",
         players: [
             { name: "হিরন্ময়", img: "images/hironmoy.jpg" },
             { name: "জিৎ", img: "images/jit.jpg" },
